@@ -1,7 +1,3 @@
----
-description: >-
-  Buse Yaren Tekin ~ Artificial Intelligence and Machine Learning Notes
----
 # World of Artificial Intelligence 🌎
 
 ## Welcome to My AI Hub 🕵️‍♀️🌐
